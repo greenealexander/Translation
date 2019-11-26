@@ -1,4 +1,4 @@
-### FAQ Support
+## FAQ Support
 
 
 ### Support or Contact
