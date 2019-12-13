@@ -1,4 +1,3 @@
-# Translation翻訳
 Link to app on app store: https://apps.apple.com/us/app/translation-翻訳/id1489079494
 
 Screenshot 1             |  Screenshot 2         |    Screenshot 3
