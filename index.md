@@ -1,4 +1,4 @@
-Link to app on app store: https://apps.apple.com/us/app/translation-翻訳/id1489079494
+Click [here](https://apps.apple.com/us/app/translation-翻訳/id1489079494) to download the app from the app store
 
 Screenshot 1             |  Screenshot 2         |    Screenshot 3
 :-------------------------:|:-------------------------:|:-------------------------:
